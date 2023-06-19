@@ -1,5 +1,6 @@
 # SQLQueries
 Queries that were excuted to work on Rockbuster Film Rentals Data Set
+
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world; however, with the emergence of online streaming services such as Netflix and Amazon Prime, management wants to launch an online rental service to stay competitive.  
 The Rockbuster Stealth Management Board has asked a series of business questions and
 they expect data-driven answers that they can use for their 2020 company strategy. Here are
